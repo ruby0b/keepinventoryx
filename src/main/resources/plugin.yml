@@ -1,0 +1,15 @@
+name: KeepInventoryX
+main: com.ruby0b.keepinventoryx.KeepInventoryX
+version: 1.0.0
+author: ruby0b
+description: Keep part of your inventory or xp on death
+permissions:
+  keepitems.keeprenamed:
+    description: Keep only renamed items upon death.
+    default: false
+  keepitems.keepxp:
+    description: Keep XP upon death.
+    default: false
+  keepitems.keep:
+    description: Keep items upon death.
+    default: false
