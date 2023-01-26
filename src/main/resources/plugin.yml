@@ -1,6 +1,6 @@
 name: KeepInventoryX
 main: com.ruby0b.keepinventoryx.KeepInventoryX
-version: 1.0.0
+version: "1.1"
 author: ruby0b
 description: Keep part of your inventory or xp on death
 permissions:
